@@ -1,0 +1,315 @@
+{
+  "produtos": [
+    {
+      "id": 0,
+      "nome": "Caneca Stormtrooper",
+      "valor": "R$ 60,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/samples/StarWar/one_olnw4l.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 1,
+      "nome": "Capacetes para Decoração",
+      "valor": "R$ 100,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416476/samples/StarWar/two_ckwifl.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Boneco Grogu",
+      "valor": "R$ 80,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416476/samples/StarWar/three_stknwt.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 3,
+      "nome": "Action Figure Stormtrooper",
+      "valor": "R$ 130,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416481/samples/StarWar/four_zv85l4.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 4,
+      "nome": "Action Figure Grogu",
+      "valor": "R$ 120,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416480/samples/StarWar/five_xclthk.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 5,
+      "nome": "Action Figure Kylo Ren",
+      "valor": "R$ 130,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416476/samples/StarWar/six_hlgtqf.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 6,
+      "nome": "Action Figure Darth Vader",
+      "valor": "R$ 155,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416476/samples/StarWar/sDlQf6f7gc-min-min-min_xobc96.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 7,
+      "nome": " Pelúcia Chewbacca",
+      "valor": "R$ 80,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416477/samples/StarWar/chewbacca_meuyry.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 8,
+      "nome": "Action Figure BB-8",
+      "valor": "R$ 350,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416477/samples/StarWar/bb-8-min-min-min-min-min_maivne.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 9,
+      "nome": "Action Figure R2-D2",
+      "valor": "R$ 470,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416482/samples/StarWar/Ja-r2d2_1-min-min-min_m4ubq5.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 10,
+      "nome": "Boneco Stormtrooper",
+      "valor": "R$ 80,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416479/samples/StarWar/F3E5Bkq0JUY-min-min-min_iwwv8e.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 11,
+      "nome": "Bonecos Darth Vader e Stormtrooper",
+      "valor": "R$ 160,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416484/samples/StarWar/n6cUGwvxygA-min-min-min-min-min_jjwtrb.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 1
+    },
+    {
+      "id": 12,
+      "nome": "Joystick Xbox One",
+      "valor": "R$ 750,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416447/samples/Console/one_rofdqd.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 13,
+      "nome": "Console PlayStation 5",
+      "valor": "R$  5.500,31",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416447/samples/Console/two_zpyr0b.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 14,
+      "nome": "Console Nintendinho",
+      "valor": "R$ 1.500,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416447/samples/Console/three_ixb3tb.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 15,
+      "nome": "Joystick Nintendo Switch",
+      "valor": "R$ 320,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416447/samples/Console/four_bprx0f.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 16,
+      "nome": "Console Xbox Series X",
+      "valor": "R$ 4.899,74",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416456/samples/Console/five_fgztvn.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 17,
+      "nome": "Game Boy",
+      "valor": "R$ 200,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416447/samples/Console/six_dweakx.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 18,
+      "nome": "Joystick Master System",
+      "valor": "R$ 270,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416451/samples/Console/ViFOxRiPT7Q-min_buxmiz.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 19,
+      "nome": "Console Nintendo SWITCH",
+      "valor": "R$ 2.899,89",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416452/samples/Console/zsXvRKtsf6Q-min_uphapm.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 20,
+      "nome": "Console PlayStation",
+      "valor": "R$ 670,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416450/samples/Console/dX_Y7f9T2G4-min_sbvrxr.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 21,
+      "nome": "Console Mega Drive",
+      "valor": "R$ 720,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416451/samples/Console/JdceP-WE8ys-min_fotbq1.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 22,
+      "nome": "Console Family Computer",
+      "valor": "R$ 320,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416450/samples/Console/DDHNI1Y4wm8-min_m1lsaq.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 23,
+      "nome": "Console SEGA DreamCast",
+      "valor": "R$ 760,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416448/samples/Console/t1h77-g2kzs_gpp3m4.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 2
+    },
+    {
+      "id": 24,
+      "nome": "Camisa Atari",
+      "valor": "R$ 50,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416413/samples/Diversos/one_yesfwf.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    },
+    {
+      "id": 25,
+      "nome": "Camisa SNES",
+      "valor": "R$ 50,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416414/samples/Diversos/two_ghptyu.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    },
+    {
+      "id": 26,
+      "nome": "Action Figure Sonic",
+      "valor": "R$ 80,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416414/samples/Diversos/three_ztkbiw.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    },
+    {
+      "id": 27,
+      "nome": "Óculos VR para PlayStation",
+      "valor": "R$ 330,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416413/samples/Diversos/four_kcd7w8.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    },
+    {
+      "id": 28,
+      "nome": "Fantasia de Pikachu",
+      "valor": "R$ 190,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416413/samples/Diversos/five_q8cnew.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    },
+    {
+      "id": 29,
+      "nome": "Rádio relógio",
+      "valor": "R$ 180,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416413/samples/Diversos/six_dbrugs.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    },
+    {
+      "id": 30,
+      "nome": "Caderno Death Note",
+      "valor": "R$ 60,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416413/samples/Diversos/LbJ_EU8hELk-min_rioosm.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    },
+    {
+      "id": 31,
+      "nome": "Action Figure Wall-E",
+      "valor": "R$ 150,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416414/samples/Diversos/41s-cWLWR3c-min_ssztbc.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    },
+    {
+      "id": 32,
+      "nome": "Action Figure Kakashi",
+      "valor": "R$ 80,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416412/samples/Diversos/3uuLWb6aQXc-min_f2hl3s.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    },
+    {
+      "id": 33,
+      "nome": "Porta jóias Pokébola",
+      "valor": "R$ 50,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416413/samples/Diversos/dkFJST9zZZo-min_wkfhpy.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    },
+    {
+      "id": 34,
+      "nome": "Action Figure Chibi Charizard",
+      "valor": "R$ 80,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416412/samples/Diversos/WC_Qjaryv4Y-min_krmeny.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    },
+    {
+      "id": 35,
+      "nome": "Action Figure Monkey D. Luffy",
+      "valor": "R$ 80,00",
+      "imagem": "https://res.cloudinary.com/dm8dootbl/image/upload/v1650416413/samples/Diversos/uCqpNqdA-5U-min_ouibns.webp",
+      "descricao": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.",
+      "categoria_id": 3
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Star Wars"
+    },
+    {
+      "id": 2,
+      "nome": "Consoles"
+    },
+    {
+      "id": 3,
+      "nome": "Diversos"
+    }
+  ],
+  "users": [
+    {
+      "name": "Administrador",
+      "email": "admin@email.com",
+      "senha": "Admin123",
+      "isLogged": false,
+      "isAdmin": true
+    }
+  ]
+}
